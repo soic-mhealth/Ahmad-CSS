@@ -10,3 +10,9 @@
 .textbook p.author{
     background: yellow;
 }
+#name{
+    background: #ccccff;
+    color:blue;
+    text-align: center;
+    font-weight: bold;
+}
