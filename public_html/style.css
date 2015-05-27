@@ -4,3 +4,9 @@
     font-size: xx-large;
     color: white;
 }
+.textbook p {
+    background: brown;
+}
+.textbook p.author{
+    background: yellow;
+}
